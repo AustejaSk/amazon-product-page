@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    display: flex; 
+    column-gap: 35px;
+    justify-content: center;
+}
+.card-image{
+    display: block;
+}
+.breadcrumb {
+    color: #565959; 
+    font-size: 15px;
+}
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 350px;
+}
+.card-info{
+    display: block;
+}
+.title {
+    font-size: 36px;
+    font-weight: lighter;
+    width: 590px;
+    margin-bottom: -5px;
+}
+.author {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.author a {
+    color: #007185;
+}
+.ratings-img {
+    width: 135px;
+    margin-bottom: -10px;
+}
+.undertitle {
+    font-size: 18px;
+    margin-bottom: -5px;
+}
+.description-p {
+    font-size: 18px;
+    width: 610px;
+}
